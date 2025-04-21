@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Komunaj-Vortoj/posts/my-first-post/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <loc>Komunaj-Vortoj/posts/my-first-post/</loc>
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Komunaj-Vortoj/posts/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <loc>Komunaj-Vortoj/posts/</loc>
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Komunaj-Vortoj/posts/koloraj_nomoj/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/Komunaj-Vortoj/</loc>
+    <loc>Komunaj-Vortoj/</loc>
     <lastmod>2024-12-16T18:18:41+02:00</lastmod>
   </url><url>
-    <loc>/Komunaj-Vortoj/categories/</loc>
+    <loc>Komunaj-Vortoj/posts/koloraj_nomoj/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Komunaj-Vortoj/tags/</loc>
+    <loc>Komunaj-Vortoj/posts/landonomoj/</loc>
+    <lastmod>2024-08-03T14:39:06+02:00</lastmod>
+  </url><url>
+    <loc>Komunaj-Vortoj/posts/lunfazoj/</loc>
+    <lastmod>2024-07-29T14:41:41+02:00</lastmod>
+  </url><url>
+    <loc>Komunaj-Vortoj/categories/</loc>
+  </url><url>
+    <loc>Komunaj-Vortoj/tags/</loc>
   </url>
 </urlset>

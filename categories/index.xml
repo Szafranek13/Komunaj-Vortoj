@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Komunaj Vortoj</title>
-    <link>/Komunaj-Vortoj/categories/</link>
+    <link>Komunaj-Vortoj/categories/</link>
     <description>Recent content in Categories on Komunaj Vortoj</description>
     <generator>Hugo</generator>
     <language>eo</language>
-    <atom:link href="/Komunaj-Vortoj/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="Komunaj-Vortoj/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

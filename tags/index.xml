@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Komunaj Vortoj</title>
-    <link>/Komunaj-Vortoj/tags/</link>
+    <link>Komunaj-Vortoj/tags/</link>
     <description>Recent content in Tags on Komunaj Vortoj</description>
     <generator>Hugo</generator>
     <language>eo</language>
-    <atom:link href="/Komunaj-Vortoj/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="Komunaj-Vortoj/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
