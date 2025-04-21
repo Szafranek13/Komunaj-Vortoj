@@ -1,1 +1,0 @@
-Saluton al ĉiuj
